@@ -260,6 +260,7 @@ body {
         width: 50%;
         height: 100%;
         padding: 0 50px;
+       
     }
 
     .contact-form-inputs input[type="text"],
@@ -272,10 +273,11 @@ body {
         margin-bottom: 20px;
         border: none;
         outline: none;
-        border-radius: 5px;
+        border-radius: 30px;
         padding: 0 20px;
         font-size: 2rem;
         font-weight: 400;
+        background-color: #252525;
     }
 
     .contact-form-inputs textarea {
@@ -288,12 +290,15 @@ body {
         padding: 20px;
         font-size: 2rem;
         font-weight: 400;
+        background-color: #252525;
+        border-radius: 30px;
     }
 
     .contact-form-inputs input[type="submit"] {
         background-color: #ffb400;
         color: #333;
-        font-weight: 800;
+        font-size: 1rem;
+        font-weight: 600;
         transition: all 0.3s ease-in-out;
     }
 
