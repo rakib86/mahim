@@ -256,6 +256,18 @@ body {
         margin-right: 10px;
     }
 
+    .social-icons {
+        display: flex;
+        gap: 10px;
+    }
+
+    .social-icons a {
+        color: #fff;
+        font-size: 2rem;
+        transition: all 0.3s ease-in-out;
+        margin-right: 40px;
+    }
+
     .contact-form-inputs {
         width: 50%;
         height: 100%;
