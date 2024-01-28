@@ -1,0 +1,39 @@
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #020012;
+    color: #fff;
+    padding: 20px;
+    margin-top: 100px;
+  }
+  
+  .footer-socials {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .footer-socials a {
+    text-decoration: none;
+  }
+  
+  .footer-socials i {
+    font-size: 1.5rem;
+    margin: 20px;
+    color: red;
+    
+  }
+  
+  .footer-text {
+    text-align: center;
+  }
+  
+  
+  
+  
+  
+  
